@@ -100,4 +100,3 @@ source $ZSH/oh-my-zsh.sh
 export PS1="[%n@%m %~]$"
 export PATH=$PATH:$HOME/.local/bin
 
-ulimit -u 12500
